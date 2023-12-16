@@ -4,3 +4,11 @@ print('itsmete comapnyyy')
 
 
 "baba vurulma shot"
+
+
+
+'tum gece aktif baba mini terorristaa'
+
+"""
+sikerlerrrr
+"""
