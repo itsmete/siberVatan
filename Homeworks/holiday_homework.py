@@ -152,3 +152,5 @@ for key,value in dictionary2.items():
 summed_strings = ''.join(valuelist)
 print(summed_strings)
 
+
+
