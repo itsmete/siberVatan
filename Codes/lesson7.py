@@ -1,4 +1,4 @@
-from random import *
+
 '''a,b,c,d = 50,100,50,75
 
 print(a<b)
@@ -136,7 +136,7 @@ number = int(input('enter a number'))
 result =  number > 0 and number%2 ==0
 print(reselt)
 '''
-
+'''
 
 
 database = {
@@ -178,14 +178,14 @@ class UserManager:
 
 
         
-
-manager1 = UserManager()
+'''
+#manager1 = UserManager()
 
 '''
 manager1.signup(username_input='itsmete',password_input='sfdfsdsf')
 print(database)'''
 
-print(database.values())
+#print(database.values())
 #print(manager1.login(usernameinput='mete'))
 
 
@@ -214,7 +214,6 @@ else:
 
 
 
-'''
 
 
 islem = int(input('İslem girininzi \n1-Toplama\n2-Cikarma\n3-Carpma\n4-Bolme\n'))
@@ -232,3 +231,6 @@ elif islem == 4:
         result = sayi1 / sayi2
 
 print(result)
+'''
+
+
