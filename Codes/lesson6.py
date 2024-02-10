@@ -21,6 +21,7 @@ user = {
           'Age' : age
 }
 
+
 print(user['Name'])
 
 print(f'My name is {user["Name"]} {user["Surname"]} .Im {user["Age"]} years old.')
@@ -45,4 +46,5 @@ print(text.endswith('k'))
 print(text.endswith('.'))
 
 replaced_text = text.replace('Mete','Cakir')
-print(replaced_text)
+print(replaced_text)          
+
