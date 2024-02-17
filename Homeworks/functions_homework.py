@@ -73,6 +73,7 @@ def listfunc(list):
 # 5)Bir sayının palindrom sayı olup olmadığını kontrol eden fonksiyonu yazınız.
         
 
+
 def palindrom_controller(sayi):
          
           sayi = str(sayi)
